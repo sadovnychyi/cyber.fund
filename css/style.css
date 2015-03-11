@@ -58,3 +58,8 @@ footer.page-footer {
   color: #ff1744;
   font-size: 90%;
 }
+
+.system {
+  max-width: 70px;
+  max-height: 70px;
+}
