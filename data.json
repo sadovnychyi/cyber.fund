@@ -1132,7 +1132,7 @@
         }
     },
     {
-        "name": "Bitmonero/Monero",
+        "name": "Monero",
         "symbol": "XMR",
         "source": "cyberFund",
         "metrics": {
@@ -1158,7 +1158,7 @@
                         "Apps"
                     ],
                     "name": "web site",
-                    "url": "http://bitmonero.org",
+                    "url": "http://monero.org",
                     "icon": "website.png"
                 },
                 {
@@ -2875,7 +2875,7 @@
         "source": "cyberFund",
         "metrics": {
             "type": "DApp",
-            "rating": 4,
+            "rating": 0,
             "consensus": "BitShares",
             "dependencies": "BitShares",
             "links": [
@@ -4112,7 +4112,7 @@
         "symbol": "FIBRE",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -4123,7 +4123,7 @@
         "symbol": "IOC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -4225,7 +4225,7 @@
         "symbol": "BITCNY",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -4324,7 +4324,7 @@
         "symbol": "MMNXT",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -4335,7 +4335,7 @@
         "symbol": "DOGED",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -4492,7 +4492,7 @@
         "symbol": "DEM",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -4503,7 +4503,7 @@
         "symbol": "XCPSCO",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -4514,7 +4514,7 @@
         "symbol": "MGW",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -4525,7 +4525,7 @@
         "symbol": "AM",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -4754,7 +4754,7 @@
         "symbol": "RBY",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -4765,7 +4765,7 @@
         "symbol": "NAUT",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -4818,7 +4818,7 @@
         "symbol": "EAC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -4872,7 +4872,7 @@
         "symbol": "AC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -4897,7 +4897,7 @@
         "symbol": "USDe",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -4908,7 +4908,7 @@
         "symbol": "SMLY",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -4919,7 +4919,7 @@
         "symbol": "BITS",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -5018,7 +5018,7 @@
         "symbol": "SYNC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -5029,7 +5029,7 @@
         "symbol": "XBS",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -5040,7 +5040,7 @@
         "symbol": "OCUPY",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -5137,7 +5137,7 @@
         "symbol": "RIN",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -5148,7 +5148,7 @@
         "symbol": "ECC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -5159,7 +5159,7 @@
         "symbol": "CRW",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -5170,7 +5170,7 @@
         "symbol": "LTBC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -5266,7 +5266,7 @@
         "symbol": "VTA",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+
             "links": [
 
             ]
@@ -5405,7 +5405,7 @@
         "symbol": "DEBUNE",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -5416,7 +5416,7 @@
         "symbol": "JBS",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -5427,7 +5427,7 @@
         "symbol": "CLOAK",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -5438,7 +5438,7 @@
         "symbol": "MARYJ",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -5463,7 +5463,7 @@
         "symbol": "CBX",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -5474,7 +5474,7 @@
         "symbol": "EFL",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -5485,7 +5485,7 @@
         "symbol": "BLU",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -5539,7 +5539,7 @@
         "symbol": "MRC2",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -5550,7 +5550,7 @@
         "symbol": "UNB",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -5561,7 +5561,7 @@
         "symbol": "ABY",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -5615,7 +5615,7 @@
         "symbol": "MMXIV",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -5626,7 +5626,7 @@
         "symbol": "LXC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -5637,7 +5637,7 @@
         "symbol": "CESC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -5906,7 +5906,7 @@
         "symbol": "SUPER",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -5917,7 +5917,7 @@
         "symbol": "NXTI",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -5984,7 +5984,7 @@
         "symbol": "ORB",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -5995,7 +5995,7 @@
         "symbol": "ARI",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -6049,7 +6049,7 @@
         "symbol": "VIOR",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -6060,7 +6060,7 @@
         "symbol": "BYC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -6113,7 +6113,7 @@
         "symbol": "NEM",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -6124,7 +6124,7 @@
         "symbol": "XQN",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -6176,7 +6176,7 @@
         "symbol": "DOPE",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -6230,7 +6230,7 @@
         "symbol": "OMC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -6283,7 +6283,7 @@
         "symbol": "NOXT",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -6462,7 +6462,7 @@
         "symbol": "BALLS",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -6516,7 +6516,7 @@
         "symbol": "PTC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -6527,7 +6527,7 @@
         "symbol": "FLDC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -6708,7 +6708,7 @@
         "symbol": "BITBTC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -6762,7 +6762,7 @@
         "symbol": "BITGOLD",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -6773,7 +6773,7 @@
         "symbol": "SFR",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -6784,7 +6784,7 @@
         "symbol": "KORE",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -6795,7 +6795,7 @@
         "symbol": "CSD",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -6806,7 +6806,7 @@
         "symbol": "VOOT",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -6860,7 +6860,7 @@
         "symbol": "RZR",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -6871,7 +6871,7 @@
         "symbol": "KOBO",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -6925,7 +6925,7 @@
         "symbol": "TES",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -6936,7 +6936,7 @@
         "symbol": "SPR",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7032,7 +7032,7 @@
         "symbol": "SLM",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7043,7 +7043,7 @@
         "symbol": "GHC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7054,7 +7054,7 @@
         "symbol": "TRL",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7236,7 +7236,7 @@
         "symbol": "XLB",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7247,7 +7247,7 @@
         "symbol": "LEAF",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7301,7 +7301,7 @@
         "symbol": "XCO",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7312,7 +7312,7 @@
         "symbol": "WKC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7366,7 +7366,7 @@
         "symbol": "MTR",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7377,7 +7377,7 @@
         "symbol": "XCN",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7388,7 +7388,7 @@
         "symbol": "TTC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7399,7 +7399,7 @@
         "symbol": "QSLV",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7410,7 +7410,7 @@
         "symbol": "GCN",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7421,7 +7421,7 @@
         "symbol": "NYC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7518,7 +7518,7 @@
         "symbol": "10K",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7571,7 +7571,7 @@
         "symbol": "MNE",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7582,7 +7582,7 @@
         "symbol": "ENRG",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7593,7 +7593,7 @@
         "symbol": "UFO",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7604,7 +7604,7 @@
         "symbol": "BOOM",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7615,7 +7615,7 @@
         "symbol": "ELT",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7626,7 +7626,7 @@
         "symbol": "SILK",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7678,7 +7678,7 @@
         "symbol": "TRI",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7689,7 +7689,7 @@
         "symbol": "BITSILVER",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7742,7 +7742,7 @@
         "symbol": "LOT",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7796,7 +7796,7 @@
         "symbol": "XDQ",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7807,7 +7807,7 @@
         "symbol": "ILT",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7818,7 +7818,7 @@
         "symbol": "TIT",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -7829,7 +7829,7 @@
         "symbol": "THC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -8097,7 +8097,7 @@
         "symbol": "TRK",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -8108,7 +8108,7 @@
         "symbol": "BTB",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -8119,7 +8119,7 @@
         "symbol": "CLR",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -8216,7 +8216,7 @@
         "symbol": "XPD",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -8269,7 +8269,7 @@
         "symbol": "MLS",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -8408,7 +8408,7 @@
         "symbol": "RPC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -8547,7 +8547,7 @@
         "symbol": "GLIDE",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -8558,7 +8558,7 @@
         "symbol": "CKC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -8731,7 +8731,7 @@
         "symbol": "STK",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -8828,7 +8828,7 @@
         "symbol": "XJO",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -8839,7 +8839,7 @@
         "symbol": "ALN",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -8850,7 +8850,7 @@
         "symbol": "XGR",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -8946,7 +8946,7 @@
         "symbol": "SAT2",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9040,7 +9040,7 @@
         "symbol": "CATC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9051,7 +9051,7 @@
         "symbol": "BCF",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9062,7 +9062,7 @@
         "symbol": "EVENT",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9116,7 +9116,7 @@
         "symbol": "PLNC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9170,7 +9170,7 @@
         "symbol": "$MINE",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9224,7 +9224,7 @@
         "symbol": "GSM",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9235,7 +9235,7 @@
         "symbol": "FFC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9246,7 +9246,7 @@
         "symbol": "EAGS",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9386,7 +9386,7 @@
         "symbol": "WBB",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9440,7 +9440,7 @@
         "symbol": "GP",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9451,7 +9451,7 @@
         "symbol": "CASH",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9462,7 +9462,7 @@
         "symbol": "KDC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9601,7 +9601,7 @@
         "symbol": "LSD",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9612,7 +9612,7 @@
         "symbol": "CAM",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9665,7 +9665,7 @@
         "symbol": "XSI",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9676,7 +9676,7 @@
         "symbol": "LGD",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9687,7 +9687,7 @@
         "symbol": "DSB",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9784,7 +9784,7 @@
         "symbol": "BNCR",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9795,7 +9795,7 @@
         "symbol": "$MINEZ",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9806,7 +9806,7 @@
         "symbol": "VMC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9817,7 +9817,7 @@
         "symbol": "BVC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9828,7 +9828,7 @@
         "symbol": "RISK",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9882,7 +9882,7 @@
         "symbol": "DIEM",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9936,7 +9936,7 @@
         "symbol": "$MINEW",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9947,7 +9947,7 @@
         "symbol": "PXI",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9958,7 +9958,7 @@
         "symbol": "ABC2",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9969,7 +9969,7 @@
         "symbol": "UNAT",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9980,7 +9980,7 @@
         "symbol": "OSC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -9991,7 +9991,7 @@
         "symbol": "TWIST",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10002,7 +10002,7 @@
         "symbol": "UIS",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10013,7 +10013,7 @@
         "symbol": "PROZ",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10151,7 +10151,7 @@
         "symbol": "BITZ",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10250,7 +10250,7 @@
         "symbol": "GSX",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10303,7 +10303,7 @@
         "symbol": "NXTprivacy",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10314,7 +10314,7 @@
         "symbol": "DICE",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10384,7 +10384,7 @@
         "symbol": "XAP",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10440,7 +10440,7 @@
         "symbol": "WATER",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10495,7 +10495,7 @@
         "symbol": "TIX",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10506,7 +10506,7 @@
         "symbol": "DORCS",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10517,7 +10517,7 @@
         "symbol": "PINK",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10528,7 +10528,7 @@
         "symbol": "NTR",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10582,7 +10582,7 @@
         "symbol": "CCS",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10593,7 +10593,7 @@
         "symbol": "MED",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10689,7 +10689,7 @@
         "symbol": "NOO",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10746,7 +10746,7 @@
         "symbol": "BTCS",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10800,7 +10800,7 @@
         "symbol": "CRYPT",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10811,7 +10811,7 @@
         "symbol": "GRS",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10822,7 +10822,7 @@
         "symbol": "OC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10833,7 +10833,7 @@
         "symbol": "XCH",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10844,7 +10844,7 @@
         "symbol": "HLC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10855,7 +10855,7 @@
         "symbol": "NKA",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10866,7 +10866,7 @@
         "symbol": "MACD",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10877,7 +10877,7 @@
         "symbol": "GAIA",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10888,7 +10888,7 @@
         "symbol": "CTM",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10899,7 +10899,7 @@
         "symbol": "CHA",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10910,7 +10910,7 @@
         "symbol": "RBBT",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -10963,7 +10963,7 @@
         "symbol": "QBK",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11016,7 +11016,7 @@
         "symbol": "CZR",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11027,7 +11027,7 @@
         "symbol": "BCX",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11080,7 +11080,7 @@
         "symbol": "FAIL",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11091,7 +11091,7 @@
         "symbol": "COMM",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11102,7 +11102,7 @@
         "symbol": "CXC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11199,7 +11199,7 @@
         "symbol": "COOL",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11253,7 +11253,7 @@
         "symbol": "BEAR",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11264,7 +11264,7 @@
         "symbol": "HRL",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11318,7 +11318,7 @@
         "symbol": "OPALTKN",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11329,7 +11329,7 @@
         "symbol": "XBC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11340,7 +11340,7 @@
         "symbol": "DRKC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11351,7 +11351,7 @@
         "symbol": "TOR",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11362,7 +11362,7 @@
         "symbol": "CINNI",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11458,7 +11458,7 @@
         "symbol": "POP",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11469,7 +11469,7 @@
         "symbol": "UTIL",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11480,7 +11480,7 @@
         "symbol": "SPA",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11491,7 +11491,7 @@
         "symbol": "NRS",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11502,7 +11502,7 @@
         "symbol": "KUMA",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11513,7 +11513,7 @@
         "symbol": "KTK",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11524,7 +11524,7 @@
         "symbol": "HVC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11535,7 +11535,7 @@
         "symbol": "CRAIG",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11546,7 +11546,7 @@
         "symbol": "SHA",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11557,7 +11557,7 @@
         "symbol": "SPHERE",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11568,7 +11568,7 @@
         "symbol": "XCASH",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11579,7 +11579,7 @@
         "symbol": "TCO",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11590,7 +11590,7 @@
         "symbol": "CAIx",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11644,7 +11644,7 @@
         "symbol": "BUK",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11698,7 +11698,7 @@
         "symbol": "CHASH",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11709,7 +11709,7 @@
         "symbol": "CRACK",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11720,7 +11720,7 @@
         "symbol": "GUE",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11773,7 +11773,7 @@
         "symbol": "KEY",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11784,7 +11784,7 @@
         "symbol": "PMP",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11838,7 +11838,7 @@
         "symbol": "MRY",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11849,7 +11849,7 @@
         "symbol": "HRNXT",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11860,7 +11860,7 @@
         "symbol": "GML",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11871,7 +11871,7 @@
         "symbol": "BRIT",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -11968,7 +11968,7 @@
         "symbol": "B1BL3",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -12022,7 +12022,7 @@
         "symbol": "PSEUD",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -12033,7 +12033,7 @@
         "symbol": "ULTC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -12214,7 +12214,7 @@
         "symbol": "FOOD",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -12225,7 +12225,7 @@
         "symbol": "HAL",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -12236,7 +12236,7 @@
         "symbol": "SHIBE",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -12290,7 +12290,7 @@
         "symbol": "HEX",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -12301,7 +12301,7 @@
         "symbol": "GLYPH",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -12439,7 +12439,7 @@
         "symbol": "PLC2",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -12450,7 +12450,7 @@
         "symbol": "PEN",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -12461,7 +12461,7 @@
         "symbol": "BTQ",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -12472,7 +12472,7 @@
         "symbol": "XSL",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -12483,7 +12483,7 @@
         "symbol": "GUN",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -12494,7 +12494,7 @@
         "symbol": "ZS",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -12505,7 +12505,7 @@
         "symbol": "YUM",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -12516,7 +12516,7 @@
         "symbol": "HIRO",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -12569,7 +12569,7 @@
         "symbol": "CNL",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -12751,7 +12751,7 @@
         "symbol": "RIPO",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -12978,7 +12978,7 @@
         "symbol": "SHLD",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13031,7 +13031,7 @@
         "symbol": "CND",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13127,7 +13127,7 @@
         "symbol": "ADN",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13138,7 +13138,7 @@
         "symbol": "JUDGE",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13149,7 +13149,7 @@
         "symbol": "RT2",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13160,7 +13160,7 @@
         "symbol": "TECH",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13171,7 +13171,7 @@
         "symbol": "BOB",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13182,7 +13182,7 @@
         "symbol": "GUA",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13193,7 +13193,7 @@
         "symbol": "SOON",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13204,7 +13204,7 @@
         "symbol": "MAL",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13257,7 +13257,7 @@
         "symbol": "VULT",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13268,7 +13268,7 @@
         "symbol": "NXTMOVIE",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13279,7 +13279,7 @@
         "symbol": "CFC2",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13290,7 +13290,7 @@
         "symbol": "CRT",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13344,7 +13344,7 @@
         "symbol": "GDN",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13355,7 +13355,7 @@
         "symbol": "DGD",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13366,7 +13366,7 @@
         "symbol": "PFC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13377,7 +13377,7 @@
         "symbol": "PHC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13473,7 +13473,7 @@
         "symbol": "KRN",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13484,7 +13484,7 @@
         "symbol": "XPL",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13495,7 +13495,7 @@
         "symbol": "CYC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13592,7 +13592,7 @@
         "symbol": "MNTA",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13603,7 +13603,7 @@
         "symbol": "VCOIN",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13614,7 +13614,7 @@
         "symbol": "MAC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13625,7 +13625,7 @@
         "symbol": "BGR",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13636,7 +13636,7 @@
         "symbol": "SPUDS",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13690,7 +13690,7 @@
         "symbol": "GNS",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13701,7 +13701,7 @@
         "symbol": "UROD",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13712,7 +13712,7 @@
         "symbol": "TAC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13765,7 +13765,7 @@
         "symbol": "NTC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13776,7 +13776,7 @@
         "symbol": "DIG",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13830,7 +13830,7 @@
         "symbol": "VTX",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13841,7 +13841,7 @@
         "symbol": "ACH",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13852,7 +13852,7 @@
         "symbol": "FETISH",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13863,7 +13863,7 @@
         "symbol": "IPC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13874,7 +13874,7 @@
         "symbol": "WLF",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13928,7 +13928,7 @@
         "symbol": "DRS",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13939,7 +13939,7 @@
         "symbol": "BDSM",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -13993,7 +13993,7 @@
         "symbol": "DON",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -14004,7 +14004,7 @@
         "symbol": "VOYA",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -14015,7 +14015,7 @@
         "symbol": "GOOD",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -14069,7 +14069,7 @@
         "symbol": "ZRC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -14080,7 +14080,7 @@
         "symbol": "SAK",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -14133,7 +14133,7 @@
         "symbol": "J",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -14144,7 +14144,7 @@
         "symbol": "BCENT",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -14155,7 +14155,7 @@
         "symbol": "MYST",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -14209,7 +14209,7 @@
         "symbol": "ECASH",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -14220,7 +14220,7 @@
         "symbol": "LAB",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -14273,7 +14273,7 @@
         "symbol": "GRC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -14412,7 +14412,7 @@
         "symbol": "DT",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -14466,7 +14466,7 @@
         "symbol": "ALI",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -14477,7 +14477,7 @@
         "symbol": "ERM",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -14531,7 +14531,7 @@
         "symbol": "AGS",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -14670,7 +14670,7 @@
         "symbol": "WETK",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -14853,7 +14853,7 @@
         "symbol": "SSV",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -14949,7 +14949,7 @@
         "symbol": "DOT",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -14960,7 +14960,7 @@
         "symbol": "ADD",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -15186,7 +15186,7 @@
         "symbol": "BTMI",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -15197,7 +15197,7 @@
         "symbol": "EUPH",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
@@ -15208,7 +15208,7 @@
         "symbol": "NBE",
         "source": "cyberFund",
         "metrics": {
-            "rating": 4,
+            "rating": 0,
             "links": [
 
             ]
