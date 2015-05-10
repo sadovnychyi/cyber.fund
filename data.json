@@ -14,6 +14,20 @@
         }
     },
     {
+        "name": "NEM",
+        "symbol": "XEM",
+        "source": "cyberFund",
+        "metrics": {
+            "type": "DAO",
+            "rating": 3,
+            "consensus": "Proof-of-Importance",
+            "dependencies": "independent",
+            "links": [
+
+            ]
+        }
+    },
+    {
         "name": "Bitcoin",
         "symbol": "BTC",
         "source": "cyberFund",
