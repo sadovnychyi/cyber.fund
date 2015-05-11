@@ -494,7 +494,7 @@
         }
     },
     {
-        "name": "NXT",
+        "name": "Nxt",
         "symbol": "NXT",
         "source": "cyberFund",
         "metrics": {
@@ -953,7 +953,7 @@
                 }
             ],
             "type": "DAO",
-            "rating": 3,
+            "rating": 2,
             "consensus": "Hybrid POW-POS",
             "dependencies": "independent",
             "hashtag": "#peercoin"
@@ -965,7 +965,7 @@
         "source": "cyberFund",
         "metrics": {
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Stake",
             "dependencies": "independent",
             "links": [
@@ -1332,7 +1332,7 @@
         "source": "cyberFund",
         "metrics": {
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Stake",
             "dependencies": "independent",
             "links": [
@@ -1354,7 +1354,7 @@
         "source": "cyberFund",
         "metrics": {
             "type": "DApp",
-            "rating": 3,
+            "rating": 2,
             "consensus": "NXT",
             "dependencies": "NXT",
             "links": [
@@ -1464,7 +1464,7 @@
         "source": "cyberFund",
         "metrics": {
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Work",
             "dependencies": "independent",
             "hashtag": "#monacoin",
@@ -1631,7 +1631,7 @@
         "source": "cyberFund",
         "metrics": {
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Stake",
             "dependencies": "independent",
             "links": [
@@ -1915,7 +1915,7 @@
         "source": "cyberFund",
         "metrics": {
             "type": "DApp",
-            "rating": 3,
+            "rating": 2,
             "consensus": "Counterparty",
             "dependencies": "Bitcoin, Counterparty",
             "links": [
@@ -2054,7 +2054,7 @@
                 }
             ],
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Stake",
             "dependencies": "independent"
         }
@@ -2065,7 +2065,7 @@
         "source": "cyberFund",
         "metrics": {
             "type": "DApp",
-            "rating": 3,
+            "rating": 2,
             "consensus": "NXT",
             "dependencies": "NXT",
             "links": [
@@ -2388,7 +2388,7 @@
                 }
             ],
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Hybrid POW-POS",
             "dependencies": "independent"
         }
@@ -2551,7 +2551,7 @@
                 }
             ],
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Work",
             "dependencies": "independent"
         }
@@ -2700,7 +2700,7 @@
                 }
             ],
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Work",
             "dependencies": "independent"
         }
@@ -2746,7 +2746,7 @@
                 }
             ],
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Work",
             "dependencies": "independent"
         }
@@ -2864,7 +2864,7 @@
                 }
             ],
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Work",
             "dependencies": "independent"
         }
@@ -2976,7 +2976,7 @@
         "source": "cyberFund",
         "metrics": {
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Stake",
             "dependencies": "independent",
             "links": [
@@ -3113,7 +3113,7 @@
                 }
             ],
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Work",
             "dependencies": "independent"
         }
@@ -3138,7 +3138,7 @@
         "source": "cyberFund",
         "metrics": {
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Delegated Proof-of-Stake",
             "dependencies": "independent",
             "links": [
@@ -3186,7 +3186,7 @@
                 }
             ],
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Work",
             "dependencies": "independent"
         }
@@ -3211,22 +3211,8 @@
         "source": "cyberFund",
         "metrics": {
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Stake",
-            "dependencies": "independent",
-            "links": [
-
-            ]
-        }
-    },
-    {
-        "name": "Burst",
-        "symbol": "BURST",
-        "source": "cyberFund",
-        "metrics": {
-            "type": "DAO",
-            "rating": 3,
-            "consensus": "Proof-of-Capacity",
             "dependencies": "independent",
             "links": [
 
@@ -3239,7 +3225,7 @@
         "source": "cyberFund",
         "metrics": {
             "type": "DApp",
-            "rating": 3,
+            "rating": 2,
             "consensus": "Bitcoin",
             "dependencies": "Bitcoin",
             "links": [
@@ -3288,7 +3274,7 @@
                 }
             ],
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Work",
             "dependencies": "independent"
         }
@@ -3453,7 +3439,7 @@
                 }
             ],
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Work",
             "dependencies": "independent"
         }
@@ -3478,7 +3464,7 @@
         "source": "cyberFund",
         "metrics": {
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Stake",
             "dependencies": "independent",
             "links": [
@@ -3506,7 +3492,7 @@
         "source": "cyberFund",
         "metrics": {
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Stake",
             "dependencies": "independent",
             "links": [
@@ -3548,7 +3534,7 @@
         "source": "cyberFund",
         "metrics": {
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Stake",
             "dependencies": "independent",
             "links": [
@@ -3597,7 +3583,7 @@
                 }
             ],
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Stake",
             "dependencies": "independent"
         }
@@ -3608,7 +3594,7 @@
         "source": "cyberFund",
         "metrics": {
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Stake",
             "dependencies": "independent",
             "links": [
@@ -3703,7 +3689,7 @@
                 }
             ],
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Work",
             "dependencies": "independent"
         }
@@ -3820,7 +3806,7 @@
         "source": "cyberFund",
         "metrics": {
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Stake",
             "dependencies": "independent",
             "links": [
@@ -3834,7 +3820,7 @@
         "source": "cyberFund",
         "metrics": {
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Stake",
             "dependencies": "independent",
             "links": [
@@ -3862,7 +3848,7 @@
         "source": "cyberFund",
         "metrics": {
             "type": "DApp",
-            "rating": 3,
+            "rating": 2,
             "consensus": "Dogecoin",
             "dependencies": "Dogecoin",
             "links": [
@@ -3925,7 +3911,7 @@
                 }
             ],
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Work",
             "dependencies": "independent"
         }
@@ -4070,7 +4056,7 @@
         "source": "cyberFund",
         "metrics": {
             "type": "DApp",
-            "rating": 2,
+            "rating": 1,
             "consensus": "NXT",
             "dependencies": "NXT",
             "links": [
@@ -4328,7 +4314,7 @@
                 }
             ],
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Work",
             "dependencies": "independent"
         }
@@ -4586,7 +4572,7 @@
                 }
             ],
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Work",
             "dependencies": "independent"
         }
@@ -5283,7 +5269,8 @@
 
             "links": [
 
-            ]
+            ],
+            "rating": 0
         }
     },
     {
@@ -5464,7 +5451,7 @@
         "source": "cyberFund",
         "metrics": {
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Hybrid POW-POS",
             "dependencies": "independent",
             "links": [
@@ -10177,7 +10164,7 @@
         "source": "cyberFund",
         "metrics": {
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Work",
             "dependencies": "independent",
             "links": [
@@ -10226,7 +10213,7 @@
                 }
             ],
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Work",
             "dependencies": "independent"
         }
@@ -10237,7 +10224,7 @@
         "source": "cyberFund",
         "metrics": {
             "type": "DApp",
-            "rating": 2,
+            "rating": 1,
             "consensus": "NXT",
             "dependencies": "NXT",
             "links": [
@@ -10444,7 +10431,7 @@
                 }
             ],
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Work",
             "dependencies": "independent"
         }
@@ -10499,7 +10486,7 @@
                 }
             ],
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Stake",
             "dependencies": "independent"
         }
@@ -10750,7 +10737,7 @@
                 }
             ],
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Work",
             "dependencies": "independent"
         }
@@ -12982,7 +12969,7 @@
                 }
             ],
             "type": "DAO",
-            "rating": 2,
+            "rating": 1,
             "consensus": "Proof-of-Stake",
             "dependencies": "independent"
         }
@@ -33673,6 +33660,10 @@
         "symbol": "Burst",
         "source": "cyberFund",
         "metrics": {
+            "type": "DAO",
+            "rating": 2,
+            "consensus": "Proof-of-Capacity",
+            "dependencies": "independent",
             "announce": "11/08/2014",
             "genesis": null,
             "status": "Running",
