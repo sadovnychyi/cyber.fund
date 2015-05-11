@@ -1758,7 +1758,7 @@
         }
     },
     {
-        "name": "Omni",
+        "name": "Mastercoin (Omni)",
         "symbol": "MSC",
         "source": "cyberFund",
         "metrics": {
@@ -3021,7 +3021,7 @@
         "source": "cyberFund",
         "metrics": {
             "type": "DApp",
-            "rating": 2,
+            "rating": 1,
             "consensus": "NXT",
             "dependencies": "NXT",
             "links": [
@@ -3219,7 +3219,7 @@
         }
     },
     {
-        "name": "Worldcoin",
+        "name": "WorldCoin",
         "symbol": "WDC",
         "source": "cyberFund",
         "metrics": {
@@ -10319,7 +10319,7 @@
         }
     },
     {
-        "name": "I0coin",
+        "name": "I0Coin",
         "symbol": "I0C",
         "source": "cyberFund",
         "metrics": {
@@ -10482,7 +10482,7 @@
         }
     },
     {
-        "name": "CRYPTI",
+        "name": "Crypti",
         "symbol": "XCR",
         "source": "cyberFund",
         "metrics": {
