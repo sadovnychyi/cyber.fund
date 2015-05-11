@@ -8,11 +8,18 @@
             "rating": 5,
             "consensus": "Ethereum",
             "dependencies": "independent",
+            "market_cap": {
+              "usd": "18439000",
+              "btc": "31529"
+            },
+            "supply": "60102216",
+            "timestamp": 1409695199,
             "links": [
 
             ]
         }
     },
+
     {
         "name": "NEM",
         "symbol": "XEM",
