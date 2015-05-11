@@ -542,7 +542,7 @@
     },
     {
         "name": "Dash",
-        "symbol": "DRK",
+        "symbol": "DASH",
         "source": "cyberFund",
         "metrics": {
             "announce": "25/12/2013",
