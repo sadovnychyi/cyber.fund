@@ -30,9 +30,129 @@
             "dependencies": "independent",
             "cap": {
               "usd": "0",
-              "btc": "0"
+              "btc": "0",
             },
             "supply": 3000000000,
+            "timestamp": 1431342962,
+            "links": [
+
+            ]
+        }
+    },
+    {
+        "name": "Synereo",
+        "symbol": "AMP",
+        "source": "cyberFund",
+        "metrics": {
+            "type": "DAO",
+            "rating": 3,
+            "consensus": "Bitcoin",
+            "dependencies": "independent",
+            "cap": {
+              "usd": "0",
+              "btc": "0",
+            },
+            "supply": 2000000,
+            "timestamp": 1431342962,
+            "links": [
+
+            ]
+        }
+    },
+    {
+        "name": "Factom",
+        "symbol": "FID",
+        "source": "cyberFund",
+        "metrics": {
+            "type": "DAO",
+            "rating": 3,
+            "consensus": "Bitcoin",
+            "dependencies": "independent",
+            "cap": {
+              "usd": "0",
+              "btc": "0",
+            },
+            "supply": 4287288,
+            "timestamp": 1431342962,
+            "links": [
+
+            ]
+        }
+    },
+    {
+        "name": "cyber•Fund",
+        "symbol": "CFS",
+        "source": "cyberFund",
+        "metrics": {
+            "type": "DApp",
+            "rating": 3,
+            "consensus": "Bitcoin",
+            "dependencies": "independent",
+            "cap": {
+              "usd": "0",
+              "btc": "0",
+            },
+            "supply": 1000000,
+            "timestamp": 1431342962,
+            "links": [
+
+            ]
+        }
+    },
+    {
+        "name": "BitShares Music",
+        "symbol": "NOTE",
+        "source": "cyberFund",
+        "metrics": {
+            "type": "DAO",
+            "rating": 3,
+            "consensus": "DPOS",
+            "dependencies": "independent",
+            "cap": {
+              "usd": "0",
+              "btc": "0",
+            },
+            "supply": 300000000,
+            "timestamp": 1431342962,
+            "links": [
+
+            ]
+        }
+    },
+    {
+        "name": "BitShares Play",
+        "symbol": "NOTE",
+        "source": "cyberFund",
+        "metrics": {
+            "type": "DAO",
+            "rating": 3,
+            "consensus": "DPOS",
+            "dependencies": "independent",
+            "cap": {
+              "usd": "0",
+              "btc": "0",
+            },
+            "supply": 100000000,
+            "timestamp": 1431342962,
+            "links": [
+
+            ]
+        }
+    },
+    {
+        "name": "Moonstone",
+        "symbol": "MNSTN",
+        "source": "cyberFund",
+        "metrics": {
+            "type": "DAO",
+            "rating": 3,
+            "consensus": "DPOS",
+            "dependencies": "independent",
+            "cap": {
+              "usd": "0",
+              "btc": "0",
+            },
+            "supply": 100000000,
             "timestamp": 1431342962,
             "links": [
 
@@ -2597,7 +2717,7 @@
         }
     },
     {
-        "name": "Reddcoin",
+        "name": "ReddCoin",
         "symbol": "RDD",
         "source": "cyberFund",
         "metrics": {
@@ -2792,7 +2912,7 @@
         }
     },
     {
-        "name": "NODE",
+        "name": "Node",
         "symbol": "NODE",
         "source": "cyberFund",
         "metrics": {
@@ -5196,7 +5316,7 @@
         "symbol": "LTBC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 0,
+            "rating": 2,
             "links": [
 
             ]
@@ -6554,7 +6674,7 @@
         "symbol": "FLDC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 0,
+            "rating": 2,
             "links": [
 
             ]
@@ -14296,11 +14416,11 @@
         }
     },
     {
-        "name": "GridCoin Research",
+        "name": "GridCoin",
         "symbol": "GRC",
         "source": "cyberFund",
         "metrics": {
-            "rating": 0,
+            "rating": 3,
             "links": [
 
             ]
