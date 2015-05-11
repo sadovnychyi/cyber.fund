@@ -8,18 +8,37 @@
             "rating": 5,
             "consensus": "Ethereum",
             "dependencies": "independent",
-            "market_cap": {
+            "cap": {
               "usd": "18439000",
               "btc": "31529"
             },
             "supply": "60102216",
-            "timestamp": 1409695199,
+            "timestamp": 1431342962,
             "links": [
 
             ]
         }
     },
+    {
+        "name": "Neucoin",
+        "symbol": "NEU",
+        "source": "cyberFund",
+        "metrics": {
+            "type": "DAO",
+            "rating": 3,
+            "consensus": "Ethereum",
+            "dependencies": "independent",
+            "cap": {
+              "usd": "0",
+              "btc": "0"
+            },
+            "supply": "3000000000",
+            "timestamp": 1431342962,
+            "links": [
 
+            ]
+        }
+    },
     {
         "name": "NEM",
         "symbol": "XEM",
@@ -2896,7 +2915,7 @@
         "source": "cyberFund",
         "metrics": {
             "type": "DApp",
-            "rating": 0,
+            "rating": 3,
             "consensus": "BitShares",
             "dependencies": "BitShares",
             "links": [
