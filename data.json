@@ -9,10 +9,10 @@
             "consensus": "Ethereum",
             "dependencies": "independent",
             "cap": {
-              "usd": "18439000",
-              "btc": "31529"
+              "usd": 18439000,
+              "btc": 31529,
             },
-            "supply": "60102216",
+            "supply": 60102216,
             "timestamp": 1431342962,
             "links": [
 
@@ -32,7 +32,7 @@
               "usd": "0",
               "btc": "0"
             },
-            "supply": "3000000000",
+            "supply": 3000000000,
             "timestamp": 1431342962,
             "links": [
 
@@ -2901,7 +2901,7 @@
         "source": "cyberFund",
         "metrics": {
             "type": "DApp",
-            "rating": 3,
+            "rating": 2,
             "consensus": "NXT",
             "dependencies": "NXT",
             "links": [
