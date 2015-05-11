@@ -13115,7 +13115,7 @@
                 }
             ],
             "type": "DAO",
-            "rating": 1,
+            "rating": 0,
             "consensus": "Proof-of-Stake",
             "dependencies": "independent"
         }
