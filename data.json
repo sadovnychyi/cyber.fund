@@ -10,7 +10,7 @@
             "dependencies": "independent",
             "cap": {
               "usd": 18439000,
-              "btc": 31529,
+              "btc": 31529
             },
             "supply": 60102216,
             "timestamp": 1431342962,
@@ -29,8 +29,8 @@
             "consensus": "Ethereum",
             "dependencies": "independent",
             "cap": {
-              "usd": "0",
-              "btc": "0",
+              "usd": 0,
+              "btc": 0
             },
             "supply": 3000000000,
             "timestamp": 1431342962,
@@ -49,8 +49,8 @@
             "consensus": "Bitcoin",
             "dependencies": "independent",
             "cap": {
-              "usd": "0",
-              "btc": "0",
+              "usd": 0,
+              "btc": 0
             },
             "supply": 2000000,
             "timestamp": 1431342962,
@@ -69,8 +69,8 @@
             "consensus": "Bitcoin",
             "dependencies": "independent",
             "cap": {
-              "usd": "0",
-              "btc": "0",
+              "usd": 0,
+              "btc": 0
             },
             "supply": 4287288,
             "timestamp": 1431342962,
@@ -89,8 +89,8 @@
             "consensus": "Bitcoin",
             "dependencies": "independent",
             "cap": {
-              "usd": "0",
-              "btc": "0",
+              "usd": 0,
+              "btc": 0
             },
             "supply": 1000000,
             "timestamp": 1431342962,
@@ -109,8 +109,8 @@
             "consensus": "DPOS",
             "dependencies": "independent",
             "cap": {
-              "usd": "0",
-              "btc": "0",
+              "usd": 0,
+              "btc": 0
             },
             "supply": 300000000,
             "timestamp": 1431342962,
@@ -129,8 +129,8 @@
             "consensus": "DPOS",
             "dependencies": "independent",
             "cap": {
-              "usd": "0",
-              "btc": "0",
+              "usd": 0,
+              "btc": 0
             },
             "supply": 100000000,
             "timestamp": 1431342962,
@@ -149,8 +149,8 @@
             "consensus": "DPOS",
             "dependencies": "independent",
             "cap": {
-              "usd": "0",
-              "btc": "0",
+              "usd": 0,
+              "btc": 0
             },
             "supply": 100000000,
             "timestamp": 1431342962,
