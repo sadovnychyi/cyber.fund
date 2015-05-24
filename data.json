@@ -2374,6 +2374,7 @@
     },
     {
         "name": "Storjcoin X",
+        "nickname": "Storj",
         "symbol": "SJCX",
         "source": "cyberFund",
         "metrics": {
